@@ -1,0 +1,1 @@
+This is a simple implementation of the basic Vicsek model for flocking. Feel free to mess with it to your heart's content. The visualization is a little clunky at the moment but that will be improved in the future. 
